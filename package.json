@@ -29,9 +29,6 @@
     "lint": "eslint --ext .js,.jsx,.ts,.tsx src/",
     "lint:fix": "eslint --ext .js,.jsx,.ts,.tsx src/ --fix"
   },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
   "browserslist": {
     "production": [
       ">0.2%",
